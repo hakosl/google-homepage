@@ -21,5 +21,16 @@ div th{
 	border:none;
 }
 #header{
-	
+	margin-right: 20px;
+	margin-top: none;
+	padding-top: none;
+}
+#footer{
+	position: absolute;
+	bottom: 0px;
+}
+#foot2{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
 }
